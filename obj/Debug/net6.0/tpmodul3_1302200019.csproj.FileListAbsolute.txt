@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.AssemblyInfo.cs
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\bin\Debug\net6.0\tpmodul3_1302200019.exe
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\bin\Debug\net6.0\tpmodul3_1302200019.deps.json
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\bin\Debug\net6.0\tpmodul3_1302200019.runtimeconfig.json
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\bin\Debug\net6.0\tpmodul3_1302200019.dll
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\bin\Debug\net6.0\tpmodul3_1302200019.pdb
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.dll
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\refint\tpmodul3_1302200019.dll
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.pdb
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\tpmodul3_1302200019.genruntimeconfig.cache
+C:\Users\user\source\repos\tpmodul3_1302200019\tpmodul3_1302200019\obj\Debug\net6.0\ref\tpmodul3_1302200019.dll
